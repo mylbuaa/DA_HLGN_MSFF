@@ -1,6 +1,4 @@
 """
-@author: luo jie
-code for DA_HLGN_MSFF in the paper
 "Visual Image Decoding of Brain Activities using a Dual Attention Hierarchical Latent Generative Network with Multi-Scale Feature Fusion"
 """
 
