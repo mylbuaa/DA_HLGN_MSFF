@@ -1,6 +1,3 @@
-"""
-"Visual Image Decoding of Brain Activities using a Dual Attention Hierarchical Latent Generative Network with Multi-Scale Feature Fusion"
-"""
 
 import torch
 import torch.nn as nn
